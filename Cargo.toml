@@ -1,0 +1,9 @@
+[package]
+name = "space-invaders"
+version = "0.1.0"
+edition = "2021"
+description = "A standalone Space Invaders game"
+publish = false
+
+[dependencies]
+macroquad = "0.4"
